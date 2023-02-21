@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: stripe
+    database: gtc-flow-375407
+    schema: stripe
+    tables:
+      - name: payment
